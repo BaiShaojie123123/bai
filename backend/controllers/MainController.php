@@ -9,7 +9,7 @@ use common\models\sys\MenuCate;
 /**
  * 主控制器
  *
- * Class MainController
+ * Class   MainController
  * @package backend\controllers
  */
 class MainController extends MController
